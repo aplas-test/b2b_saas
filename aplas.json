@@ -1,21 +1,25 @@
 {
-  "id": "b2b_saas",
-  "name": "B2B SaaS",
-  "categoryId": "qa",
-  "description": "Public-key fresh-thinking architecture",
-  "investment_24m": "743",
-  "hostedtype": "SaaS",
-  "licensing_cost": "132",
-  "status_color": "#00FF00",
-  "type": "SaaS",
-  "support_cost": "412",
-  "deployment_date": "16/7/05",
-  "end_of_maintenance": "8/1/18",
-  "department": "Human Resources",
-  "status": "Active",
-  "end_of_life": "3/5/18",
-  "sme_name": "Shel Pattesall",
-  "months_to_renew_support": "22",
-  "sme_email": "Shel.Pattesall@memento.net.au",
-  "investment_number": "199"
+  "applications": [
+    {
+      "id": "b2b_saas",
+      "name": "B2B SaaS",
+      "categoryId": "qa",
+      "description": "Public-key fresh-thinking architecture",
+      "investment_24m": "743",
+      "hostedtype": "SaaS",
+      "licensing_cost": "132",
+      "status_color": "#00FF00",
+      "type": "SaaS",
+      "support_cost": "412",
+      "deployment_date": "16/7/05",
+      "end_of_maintenance": "8/1/18",
+      "department": "Human Resources",
+      "status": "Active",
+      "end_of_life": "3/5/18",
+      "sme_name": "Shel Pattesall",
+      "months_to_renew_support": "22",
+      "sme_email": "Shel.Pattesall@memento.net.au",
+      "investment_number": "199"
+    }
+  ]
 }
