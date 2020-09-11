@@ -3,25 +3,15 @@
     {
       "id": "b2b_saas",
       "name": "B2B SaaS",
+      "shortName": "",
       "vendor": "Hexagon",
       "description": "Public-key fresh-thinking architecture",
       "categoryId": "qa",
       "applicationSize": "Small",
-      "status": "Standard",
-      "investment_24m": "743",
-      "hostedtype": "SaaS",
-      "licensing_cost": "132",
-      "status_color": "#00FF00",
-      "type": "SaaS",
-      "support_cost": "412",
-      "deployment_date": "16/7/05",
-      "end_of_maintenance": "8/1/18",
-      "department": "Human Resources",
-      "end_of_life": "3/5/18",
-      "sme_name": "Shel Pattesall",
-      "months_to_renew_support": 22,
+      "status": "Proposed",
       "sme_email": "Shel.Pattesall@memento.net.au",
-      "investment_number": 199,
+      "condition": [ "Good", "Average", "Good" ],
+      "rating": "very good",
       "integrations": [
         {
           "id": "int-396",
@@ -32,15 +22,15 @@
           "targetApplicationId": "hyperlocal",
           "categoryId": "webmethods",
           "status": "Standard",
-          "logical_server": "B2B",
-          "pattern": "File Delivery",
-          "golive_date": "24/7/10",
-          "sme_name": "Isacco Tucker",
-          "datacentre": "Dandenong",
           "department": "Integration",
-          "sme_email": "itucker3@memento.net.au",
           "complexity": "High",
-          "last_deployment_date": "10/10/15"
+          "golive_date": "24/7/10",
+          "pattern": "File Delivery",
+          "last_deployment_date": "10/10/15",
+          "datacentre": "Dandenong",
+          "sme_name": "Isacco Tucker",
+          "logical_server": "B2B",
+          "sme_email": "itucker3@memento.net.au"
         }
       ]
     }
