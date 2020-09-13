@@ -10,7 +10,11 @@
       "applicationSize": "Small",
       "status": "Proposed",
       "sme_email": "Shel.Pattesall@memento.net.au",
-      "condition": [ "Good", "Average", "Good" ],
+      "condition": [
+        { "label": "fy20q1", "value": "Good" },
+        { "label": "fy20q2", "value": "Average" },
+        { "label": "fy20q3", "value": "Good" }
+      ],
       "rating": "very good",
       "integrations": [
         {
@@ -22,13 +26,13 @@
           "targetApplicationId": "hyperlocal",
           "categoryId": "webmethods",
           "status": "Standard",
-          "department": "Integration",
-          "complexity": "High",
-          "golive_date": "24/7/10",
           "pattern": "File Delivery",
           "last_deployment_date": "10/10/15",
+          "golive_date": "24/7/10",
           "datacentre": "Dandenong",
           "sme_name": "Isacco Tucker",
+          "complexity": "High",
+          "department": "Integration",
           "logical_server": "B2B",
           "sme_email": "itucker3@memento.net.au"
         }
